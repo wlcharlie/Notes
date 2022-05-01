@@ -1,0 +1,8 @@
+#### Types
+##### Core Types
+- **number**: no matter either is `5`(int) or `6.1`(float), as long as is number
+- **string**
+- **boolean**
+
+> Note: NOT `Number`, is `number`. Case Matter.
+

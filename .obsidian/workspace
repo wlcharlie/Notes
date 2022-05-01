@@ -7,8 +7,12 @@
         "id": "ece3657643d20060",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TypeScript/1. Basic.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "46a0325116b39c67"
       },
@@ -16,8 +20,12 @@
         "id": "8372a189a4e7ecbf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TypeScript/1. Basic.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "46a0325116b39c67"
       }
@@ -75,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TypeScript/1. Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,8 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8372a189a4e7ecbf",
+  "active": "ece3657643d20060",
   "lastOpenFiles": [
+    "TypeScript/1. Basic.md",
+    "TypeScript/Types.md",
     "test/test.md"
   ]
 }
