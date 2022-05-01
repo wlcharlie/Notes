@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/2. Types.md",
+            "file": "TypeScript/3. Type Assignment & Inference.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/2. Types.md",
+                "file": "TypeScript/3. Type Assignment & Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/2. Types.md"
+                "file": "TypeScript/3. Type Assignment & Inference.md"
               }
             }
           }
@@ -124,6 +124,7 @@
   },
   "active": "ece3657643d20060",
   "lastOpenFiles": [
+    "TypeScript/3. Type Assignment & Inference.md",
     "TypeScript/2. Types.md",
     "TypeScript/1. Basic.md",
     "test/test.md"
