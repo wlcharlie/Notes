@@ -2,5 +2,6 @@
   "obsidian-git",
   "table-editor-obsidian",
   "dataview",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-languagetool-plugin"
 ]
