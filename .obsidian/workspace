@@ -89,7 +89,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -101,10 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ece3657643d20060",
+  "active": "8372a189a4e7ecbf",
   "lastOpenFiles": [
     "TypeScript/1. Basic.md",
-    "TypeScript/Types.md",
+    "TypeScript/2. Types.md",
     "test/test.md"
   ]
 }
