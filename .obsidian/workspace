@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/3. Type Assignment & Inference.md",
+            "file": "TypeScript/5. Literal Type.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 298
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/3. Type Assignment & Inference.md",
+                "file": "TypeScript/5. Literal Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/3. Type Assignment & Inference.md"
+                "file": "TypeScript/5. Literal Type.md"
               }
             }
           }
@@ -120,12 +120,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 141
+    "width": 100
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
-    "TypeScript/3. Type Assignment & Inference.md",
+    "TypeScript/5. Literal Type.md",
+    "TypeScript/4. Union Type.md",
     "TypeScript/2. Types.md",
+    "TypeScript/3. Type Usage_Assignment & Inference.md",
     "TypeScript/1. Basic.md",
     "test/test.md"
   ]
