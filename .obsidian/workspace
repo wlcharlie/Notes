@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "TypeScript/3. Type Assignment & Inference.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 202
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -120,13 +120,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213
+    "width": 141
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
     "TypeScript/3. Type Assignment & Inference.md",
-    "TypeScript/1. Basic.md",
     "TypeScript/2. Types.md",
+    "TypeScript/1. Basic.md",
     "test/test.md"
   ]
 }
