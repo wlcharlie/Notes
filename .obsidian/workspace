@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TypeScript/5. Literal Type.md",
+            "file": "TypeScript/4. Union Types.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 256
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/5. Literal Type.md",
+                "file": "TypeScript/4. Union Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/5. Literal Type.md"
+                "file": "TypeScript/4. Union Types.md"
               }
             }
           }
@@ -124,10 +124,11 @@
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
-    "TypeScript/5. Literal Type.md",
-    "TypeScript/4. Union Type.md",
-    "TypeScript/2. Types.md",
+    "TypeScript/4. Union Types.md",
+    "TypeScript/6. Aliases & Custom Types.md",
     "TypeScript/3. Type Usage_Assignment & Inference.md",
+    "TypeScript/5. Literal Types.md",
+    "TypeScript/2. Types.md",
     "TypeScript/1. Basic.md",
     "test/test.md"
   ]
