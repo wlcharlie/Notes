@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algo & Data Structures/Big O Notation.md",
+            "file": "TypeScript/3. Type Usage_Assignment & Inference.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo & Data Structures/Big O Notation.md",
+                "file": "TypeScript/3. Type Usage_Assignment & Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo & Data Structures/Big O Notation.md"
+                "file": "TypeScript/3. Type Usage_Assignment & Inference.md"
               }
             }
           }
@@ -125,13 +124,13 @@
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
+    "TypeScript/3. Type Usage_Assignment & Inference.md",
+    "TypeScript/2. Types.md",
+    "TypeScript/4. Union Types.md",
+    "TypeScript/5. Literal Types.md",
+    "TypeScript/6. Aliases & Custom Types.md",
     "Algo & Data Structures/Big O Notation.md",
     "TypeScript/1. Basic.md",
-    "TypeScript/4. Union Types.md",
-    "TypeScript/6. Aliases & Custom Types.md",
-    "TypeScript/3. Type Usage_Assignment & Inference.md",
-    "TypeScript/5. Literal Types.md",
-    "TypeScript/2. Types.md",
     "test/test.md"
   ]
 }
