@@ -7,8 +7,12 @@
         "id": "a6d4fbf34ace3a57",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "N_Algo & Data Structures/Big O Notation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "N_Algo & Data Structures/Big O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "N_Algo & Data Structures/Big O Notation.md"
+              }
             }
           }
         ],
@@ -117,13 +124,13 @@
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
+    "N_Algo & Data Structures/Big O Notation.md",
     "README.md",
     "Pasted image 20220501232331.png",
     "Pasted image 20220501231555.png",
     "Pasted image 20220501230658.png",
     "Pasted image 20220501230142.png",
     "Pasted image 20220501230044.png",
-    "N_Algo & Data Structures/Big O Notation.md",
     "N_TypeScript/3.Type Usage_Assignment & Inference.md",
     "N_TypeScript/6.Aliases & Custom Types.md",
     "N_TypeScript/5.Literal Types.md"
