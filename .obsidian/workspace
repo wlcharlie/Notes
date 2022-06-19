@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/7.Function Type.md",
+            "file": "N_TypeScript/8.Unknown Type.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 282
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/7.Function Type.md",
+                "file": "N_TypeScript/8.Unknown Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/7.Function Type.md"
+                "file": "N_TypeScript/8.Unknown Type.md"
               }
             }
           }
@@ -125,15 +124,15 @@
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
+    "N_TypeScript/8.Unknown Type.md",
     "N_TypeScript/7.Function Type.md",
     "N_TypeScript/6.Aliases & Custom Types.md",
-    "N_TypeScript/3.Type Usage_Assignment & Inference.md",
-    "N_TypeScript/4.Union Types.md",
     "N_TypeScript/5.Literal Types.md",
-    "N_TypeScript/1.Basic.md",
+    "N_TypeScript/4.Union Types.md",
+    "N_TypeScript/3.Type Usage_Assignment & Inference.md",
     "N_TypeScript/2.Types.md",
+    "N_TypeScript/1.Basic.md",
     "N_Algo & Data Structures/Big O Notation.md",
-    "README.md",
-    "Pasted image 20220501232331.png"
+    "README.md"
   ]
 }
