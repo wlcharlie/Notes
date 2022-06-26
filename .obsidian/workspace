@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/9.Never Type.md",
+            "file": "N_TypeScript/primitives-types.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 326
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/9.Never Type.md",
+                "file": "N_TypeScript/primitives-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/9.Never Type.md"
+                "file": "N_TypeScript/primitives-types.md"
               }
             }
           }
@@ -124,15 +124,15 @@
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
+    "N_TypeScript/primitives-types.md",
+    "N_TypeScript/3.Type Usage_Assignment & Inference.md",
+    "N_TypeScript/how-to-code-typescript.md",
+    "N_TypeScript/2.Types.md",
     "N_TypeScript/9.Never Type.md",
     "N_TypeScript/8.Unknown Type.md",
     "N_TypeScript/7.Function Type.md",
     "N_TypeScript/6.Aliases & Custom Types.md",
     "N_TypeScript/5.Literal Types.md",
-    "N_TypeScript/4.Union Types.md",
-    "N_TypeScript/3.Type Usage_Assignment & Inference.md",
-    "N_TypeScript/2.Types.md",
-    "N_TypeScript/1.Basic.md",
-    "N_Algo & Data Structures/Big O Notation.md"
+    "N_TypeScript/4.Union Types.md"
   ]
 }

@@ -1,15 +1,17 @@
 ---
-title: Basic - How to code TypeScript
+title: How to code TypeScript
+date: 2022/06/26
 tags:
   - typescript
   - notes
 ---
 
-#### Basic: How to code TypeScript
-1. creating file as `.ts`
-2. code as normal JavaScript, but with [[2.Types]]
-3. `tsc file.ts` to compile ts to js
+#### How to code TypeScript
+1. Creating file as `.ts`
+2. Code as normal JavaScript, but with [[2.Types]]
+3. Commad line: `tsc file.ts` to compile ts to JS
 
+>TypeScript
 ```ts
 function add(n1: number, n2: number, showResult: boolean, phrase: string) {
   const result = n1 + n2
@@ -28,6 +30,7 @@ const resultPhrase = "Result is: "
 add(number1, number2, printResult, resultPhrase)
 ```
 
+> JavaScript
 ```js
 function add(n1, n2, showResult, phrase) {
     var result = n1 + n2;
