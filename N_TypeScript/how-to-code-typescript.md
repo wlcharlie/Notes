@@ -1,6 +1,6 @@
 ---
 title: How to code TypeScript
-date: 2022/06/26
+date: 2022-06-26
 tags:
   - typescript
   - notes
