@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/3.Type Usage_Assignment & Inference.md",
+            "file": "N_TypeScript/array-types.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/3.Type Usage_Assignment & Inference.md",
+                "file": "N_TypeScript/array-types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/3.Type Usage_Assignment & Inference.md"
+                "file": "N_TypeScript/array-types.md"
               }
             }
           }
@@ -124,15 +124,15 @@
   },
   "active": "a6d4fbf34ace3a57",
   "lastOpenFiles": [
+    "N_TypeScript/array-types.md",
     "N_TypeScript/3.Type Usage_Assignment & Inference.md",
     "N_TypeScript/object-types.md",
     "N_TypeScript/primitives-types.md",
     "N_TypeScript/how-to-code-typescript.md",
+    "N_TypeScript/4.Union Types.md",
+    "N_TypeScript/6.Aliases & Custom Types.md",
     "N_TypeScript/function.md",
     "N_TypeScript/7.Function Type.md",
-    "N_TypeScript/2.Types.md",
-    "N_TypeScript/9.Never Type.md",
-    "N_TypeScript/8.Unknown Type.md",
-    "N_TypeScript/6.Aliases & Custom Types.md"
+    "N_TypeScript/2.Types.md"
   ]
 }
