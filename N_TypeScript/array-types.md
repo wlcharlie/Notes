@@ -11,4 +11,8 @@ Array object, you will see and use everyday type!
 Example: 
 ```typescript
 let players: string[]
+let lotteryNumbers: numbers[]
+let things: any[]
+
+// any is a type, use it carefully since use any will disable all fruther type checking.
 ```
