@@ -1,5 +1,5 @@
 ---
-title: Type Usage - Literal Types
+title: 未整理Type Usage - Literal Types
 tags:
   - typescript
   - notes

@@ -1,5 +1,5 @@
 ---
-title: Types - Object
+title: Types - Array
 date: 2022-06-26
 tags:
   - typescript

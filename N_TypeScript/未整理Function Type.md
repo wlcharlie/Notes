@@ -1,5 +1,5 @@
 ---
-title: Function - Type, Return, Callback, Void
+title: 未整理Function - Type, Return, Callback, Void
 date: 2022-06-19
 tags:
   - typescript

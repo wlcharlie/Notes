@@ -1,11 +1,11 @@
 ---
-title: Never Type
+title: 未整理Unknown Type
 date: 2022-06-19
 tags:
   - typescript
   - notes
 ---
-a type never intend to return anything, since it crash
+
 ```ts
 let userInput: unknown
 let userName: string
@@ -16,7 +16,5 @@ if(typeof userInput === 'string') {
 	userName = userInput
 }
 
-function generateError(message: string, code: number): never {
-	throw { message: message, errorCode: code }
-}
+userName = userInput //error
 ```

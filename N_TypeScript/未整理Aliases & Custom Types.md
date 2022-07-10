@@ -1,5 +1,5 @@
 ---
-title: Type Usage - Aliases & Custom Types
+title: 未整理Type Usage - Aliases & Custom Types
 tags:
   - typescript
   - notes
