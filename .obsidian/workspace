@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/compile-with-watch-mode.md",
+            "file": "N_TypeScript/compiler-options.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 100
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/compile-with-watch-mode.md",
+                "file": "N_TypeScript/compiler-options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/compile-with-watch-mode.md"
+                "file": "N_TypeScript/compiler-options.md"
               }
             }
           }
@@ -120,11 +120,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168
+    "width": 168,
+    "collapsed": true
   },
   "active": "c310d6b415ae4a40",
   "lastOpenFiles": [
-    "N_TypeScript/compile-with-watch-mode.md",
+    "N_TypeScript/compiler-options.md",
+    "N_TypeScript/compile-file-or-project.md",
     "N_TypeScript/how-to-code-typescript.md",
     "N_TypeScript/primitives-types.md",
     "N_TypeScript/object-types.md",
@@ -132,7 +134,6 @@
     "N_TypeScript/any-types.md",
     "N_TypeScript/未整理Unknown Type.md",
     "N_TypeScript/未整理Union Types.md",
-    "N_TypeScript/未整理Type Usage_Assignment & Inference.md",
-    "N_TypeScript/未整理Never Type.md"
+    "N_TypeScript/未整理Type Usage_Assignment & Inference.md"
   ]
 }
