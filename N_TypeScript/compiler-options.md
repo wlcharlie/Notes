@@ -8,8 +8,18 @@ tags:
   - tsconfig
 ---
 ##### tsconfig.json
-* target: how will TS config to JS by defined version
-* lib: default by `target`, more specific as `["dom", "es6", "dom.iterable", "scripthost"]` 
+* target: how will TS config to JS by defined version, for instance: `es6`
+* lib: default by `target`, for broswer: more specific as `["dom", "es6", "dom.iterable", "scripthost"]` 
+* sourceMap: `true` to show source in dev tools, good for debug
+* outdir: where generate file will be stored
+* rootDir: where ts will look up to compile
+* removeComments: as it said
+* noEmit: check files but not generate js
+* downlevelIteration: if your loop doesnt behave well
+* noEmitOnError: if error happened dont generate js
+
+###### Strict Part
+* noImplictAny: no any type!
 
 
 ```json
