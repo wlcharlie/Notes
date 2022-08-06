@@ -58,7 +58,7 @@ const user = new User("Matt")
 user.greet() //Hello, I am Matt
 user.name //error! only access inside the class
 ```
-* With protected
+* With protected (to access in sub-class but not outside the class)
 ```ts
 class User {
 	//name: string
