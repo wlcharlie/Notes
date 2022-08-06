@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/compiler-options.md",
+            "file": "N_TypeScript/class-property-public-privtae-readonly-protected.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/compiler-options.md",
+                "file": "N_TypeScript/class-property-public-privtae-readonly-protected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/compiler-options.md"
+                "file": "N_TypeScript/class-property-public-privtae-readonly-protected.md"
               }
             }
           }
