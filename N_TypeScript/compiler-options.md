@@ -7,6 +7,13 @@ tags:
   - config
   - tsconfig
 ---
+
+#### Refs
+[tsconfig](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+[compiler config](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
+[vscode debugging](https://code.visualstudio.com/docs/typescript/typescript-debugging)
+
+---
 ##### tsconfig.json
 * target: how will TS config to JS by defined version, for instance: `es6`
 * lib: default by `target`, for broswer: more specific as `["dom", "es6", "dom.iterable", "scripthost"]` 
@@ -20,7 +27,6 @@ tags:
 
 ###### Strict Part
 * noImplictAny: no any type!
-
 
 ```json
 {
