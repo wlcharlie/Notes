@@ -1,12 +1,10 @@
 ---
-title: Class Prperty
+title: Class Property
 date: 2022-07-10
 tags:
   - typescript
   - notes
-  - classes
   - class
-  - OOP
 ---
 
 #### Class Modifiers
