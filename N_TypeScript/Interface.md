@@ -60,3 +60,49 @@ user1 = new Person("Max")
 user1.greet("Hi there - I am")
 ```
 
+##### Readonly Modifier
+can use on `interface` or `type`
+```ts
+interface Greetable {
+  readonly name: string
+  greet(phrase: string): void
+}
+
+//...
+
+user1.name = "Kevin" //X
+```
+
+#### Extending Interface
+To seperate logic and structure, but meanwhile you can merge together by extending
+```ts
+interface Named {
+  readonly name: string
+}
+
+interface Greetable extends Named {
+  greet(phrase: string): void
+}
+```
+
+##### Interface as Function 
+```ts
+interface AddFn {
+  (a: number, b: number): number
+}
+
+  
+
+let add: AddFn = (a: number, b: number) => {
+  return a + b
+}
+```
+
+##### Optional Properties
+Just add  `?`
+```ts
+interface Named {
+  readonly name: string
+  age?: number
+}
+```
