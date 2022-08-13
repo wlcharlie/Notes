@@ -14,6 +14,7 @@ To enforce all related extened class share same method or properties, an abstrac
 
 ```ts
 class Person {
+    //...
 	abstract speak(this: Person): void
 }
 

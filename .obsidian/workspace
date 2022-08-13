@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/class-abstract-method.md",
+            "file": "N_TypeScript/Interface.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/class-abstract-method.md",
+                "file": "N_TypeScript/Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/class-abstract-method.md"
+                "file": "N_TypeScript/Interface.md"
               }
             }
           }
@@ -127,13 +127,13 @@
   "lastOpenFiles": [
     "N_TypeScript/class-singleton-private-constructor.md",
     "N_TypeScript/class-abstract-method.md",
+    "N_TypeScript/Interface.md",
     "N_TypeScript/class-property-public-private-protected-readonly-static.md",
     "N_TypeScript/compiler-options.md",
     "N_TypeScript/object-types.md",
     "N_TypeScript/array-types.md",
     "N_TypeScript/any-types.md",
     "N_TypeScript/compile-file-or-project.md",
-    "N_TypeScript/how-to-code-typescript.md",
-    "N_TypeScript/primitives-types.md"
+    "N_TypeScript/how-to-code-typescript.md"
   ]
 }
