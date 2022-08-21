@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 335.5
   },
   "right": {
     "id": "61777b9c1a5afbdb",
@@ -125,6 +125,7 @@
   },
   "active": "c310d6b415ae4a40",
   "lastOpenFiles": [
+    "N_TypeScript/in-operator-instanceof.md",
     "N_TypeScript/combine-types-union.md",
     "N_TypeScript/typecasting.md",
     "N_TypeScript/未整理Union Types.md",
@@ -133,7 +134,6 @@
     "N_TypeScript/class-property-public-private-protected-readonly-static.md",
     "N_TypeScript/compiler-options.md",
     "N_TypeScript/compile-file-or-project.md",
-    "N_TypeScript/any-types.md",
-    "N_TypeScript/array-types.md"
+    "N_TypeScript/any-types.md"
   ]
 }
