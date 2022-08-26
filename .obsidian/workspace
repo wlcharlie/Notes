@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N_TypeScript/typecasting.md",
+            "file": "N_TypeScript/combine-types-intersection.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N_TypeScript/typecasting.md",
+                "file": "N_TypeScript/combine-types-intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N_TypeScript/typecasting.md"
+                "file": "N_TypeScript/combine-types-intersection.md"
               }
             }
           }
@@ -126,14 +126,14 @@
   "active": "c310d6b415ae4a40",
   "lastOpenFiles": [
     "N_TypeScript/in-operator-instanceof.md",
+    "N_TypeScript/combine-types-intersection.md",
+    "N_TypeScript/Interface.md",
     "N_TypeScript/combine-types-union.md",
     "N_TypeScript/typecasting.md",
     "N_TypeScript/未整理Union Types.md",
-    "N_TypeScript/combine-types-intersection.md",
     "N_TypeScript/未整理Aliases & Custom Types.md",
     "N_TypeScript/class-property-public-private-protected-readonly-static.md",
     "N_TypeScript/compiler-options.md",
-    "N_TypeScript/compile-file-or-project.md",
-    "N_TypeScript/any-types.md"
+    "N_TypeScript/compile-file-or-project.md"
   ]
 }
